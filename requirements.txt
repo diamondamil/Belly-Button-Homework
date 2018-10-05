@@ -1,3 +1,4 @@
+Below are the contents of Requirements.txt file that you need for this home work:
 certifi==2018.4.16
 click==6.7
 Flask==1.0.2
@@ -12,3 +13,4 @@ pytz==2018.5
 six==1.11.0
 SQLAlchemy==1.2.10
 Werkzeug==0.14.1
+gunicorn==19.7.1
